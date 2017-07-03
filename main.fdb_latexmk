@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1499066572 "main.tex" "main.pdf" "main" 1499066573
+["pdflatex"] 1499067166 "main.tex" "main.pdf" "main" 1499067166
   "/etc/texmf/web2c/texmf.cnf" 1489000050 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -55,8 +55,8 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1489036584 80420 2ccc9c96b7b58c4e7cc3884cc97eb042 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1489036577 856210 fd0f62b246aa7267216700a7d68caef0 ""
   "main.aux" 1498539534 8 a94a2480d3289e625eea47cd1b285758 ""
-  "main.tex" 1499066565 9416 c27a82befd6bbe788350a79effdfb681 ""
+  "main.tex" 1499067162 9405 075b2c351f75061146eb06dfbb3a9b89 ""
   "res.cls" 1452862387 25071 5219690551826615ce16067e080612e1 ""
   (generated)
-  "main.log"
   "main.pdf"
+  "main.log"
